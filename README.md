@@ -1,2 +1,2 @@
-# Valsys-Ghost-Repo
-A ghost repository to import contribution history of work done at Valsys using only a git log of commit dates
+# Industry-Ghost-Repo
+A ghost repository to import contribution history of proprietary work done in Industry (at Valsys, Bloomberg...etc) using only a git log of commit dates
